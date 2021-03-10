@@ -1,0 +1,63 @@
+body{
+<<<<<<< HEAD
+    background:url();
+    opacity: 0.9;
+    background-size: cover;
+    background-attachment:fixed;
+=======
+
+    background-image: url(cover.jpg);
+    opacity: 0.9;
+    background-size: cover;
+    background-attachment: fixed;
+
+>>>>>>> 36baac78911c0bd683f83497c4fa927a206b302e
+}
+p{
+    margin: 10px 0 !important;
+}
+
+
+.login-container {
+    width:400px;
+    margin: top 10px;
+    text-align:center;
+}
+img{
+    width: 500px;
+    margin-top: 1px;
+    
+    
+}
+
+
+.login-container {
+    width:400px;
+    margin-top:50px;
+    text-align:center;
+}
+
+.card{
+    background-color:rgb(189, 210, 231);
+}
+
+<<<<<<< HEAD
+.fa-small{
+    font-size:16px !important;
+}
+
+.btn-float{
+    float: left;
+    margin-right: 10px;
+}
+
+.img-small{
+  width: 180px;  
+}
+
+
+
+
+=======
+>>>>>>> 36baac78911c0bd683f83497c4fa927a206b302e
+
